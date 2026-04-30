@@ -17,7 +17,7 @@ Fecha de referencia del análisis: 01/01/2026
 ## Herramientas
 Power BI Desktop, DAX, Power Query, SQL
 
-## Páginas del Análisis en Power BI
+## Análisis en Power BI
 1. Resumen
 2. Composición del portfolio
 3. Vencimientos
