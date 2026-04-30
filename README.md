@@ -29,15 +29,17 @@ Power BI Desktop, DAX, Power Query, SQL
 9. Clientes de riesgo
 
 ## Análisis en SQL
-1. Composición del portfolio
-2. Vencimientos
-3. Límites de crédito
-4. Aperturas
-5. Actualizaciones
-6. Perfil financiero
-7. Transacciones
-8. Tarjetas y pins vencidos
-9. Clientes de riesgo
+1. Transformación de datos
+2. Composición del portfolio
+3. Vencimientos
+4. Límites de crédito
+5. Aperturas
+6. Antigüedad del PIN
+7. Perfil financiero
+8. Transacciones
+9. Gastos por segmento
+10. Riesgo de clientes
+11. Clientes de alto tiesgo
 
 ## Hallazgos principales
 -Mastercard domina el mercado de las tarjetas
@@ -49,6 +51,6 @@ Power BI Desktop, DAX, Power Query, SQL
 -2020 es el año con más aperturas
 -El trimestre con más transacciones es el 3ro (julio, agosto, septiembre)
 -El promedio de ingresos anuales de los clientes es de 45.720 dolares
--El 37,76% de los clientes son de alto riesgo
+-El 68% de los clientes son de alto riesgo
 -El 46,50 % de las tarjetas tienen transacciones
 -El 56,55% de los clientes hacen transacciones
